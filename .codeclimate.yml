@@ -4,8 +4,8 @@ engines:
     enabled: true
     config:
       rules:
-        - "java-basic"
-#        - "java-code-size"
+#        - "java-basic"
+        - "java-code-size"
 #        - "java-coupling"
 ratings:
   paths:
