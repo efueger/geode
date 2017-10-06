@@ -6,7 +6,7 @@ engines:
       rules:
         - "java-basic"
 #        - "java-code-size"
-        - "java-coupling"
+#        - "java-coupling"
 ratings:
   paths:
   - "**.java"
