@@ -5,8 +5,8 @@ engines:
     config:
       rules:
 #        - "java-basic"
-        - "java-code-size"
-#        - "java-coupling"
+#        - "java-code-size"
+        - "java-coupling"
 ratings:
   paths:
   - "**.java"
